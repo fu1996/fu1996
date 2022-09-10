@@ -1,3 +1,5 @@
+<p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
+
 ### 哈喽，我是 [付俊奎]() 👨‍💻
 
 - `坚持不一定成功，放弃必定失败`
@@ -5,7 +7,7 @@
 
 :smiley: 一名热爱 coding 的前端工程师。
 
-![GitHub followers](https://img.shields.io/github/followers/fu1996?style=social)
+![GitHub followers](https://img.shields.io/github/followers/fu1996?style=social) ![](https://visitor-badge.glitch.me/badge?page_id=fu1996.fu1996) <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
 
 ### 关于我 :eyes:
 
