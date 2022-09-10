@@ -1,4 +1,37 @@
-### Hi there 👋
+### 哈喽，我是 [付俊奎]() 👨‍💻
+
+- `坚持不一定成功，放弃必定失败`
+- `种一棵树最好的时间是在十年前，其次是现在`
+
+:smiley: 一名热爱 coding 的前端工程师。
+
+![GitHub followers](https://img.shields.io/github/followers/fu1996?style=social)
+
+### 关于我 :eyes:
+
+[我在大学是如何通过自学编程从养殖（动物科学）专业变 IT 男的经历](https://fu1996.github.io/)
+
+### 编程语言和工具 :computer:
+
+[![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/hritik5102)](https://github.com/hritik5102) [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/hritik5102)](https://github.com/hritik5102) [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&link=https://github.com/hritik5102)](https://github.com/hritik5102)
+
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/hritik5102)](https://github.com/hritik5102) [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/hritik5102)](https://github.com/hritik5102) [![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/hritik5102)](https://github.com/hritik5102)
+
+[![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js&link=https://github.com/hritik5102)](https://github.com/hritik5102) [![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker&link=https://github.com/hritik5102)](https://github.com/hritik5102) [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/hritik5102)](https://github.com/hritik5102)
+
+[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/hritik5102)](https://github.com/hritik5102) [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/hritik5102)](https://github.com/hritik5102)
+
+### 自研提效小工具 😄
+
+- [基于谷歌翻译和 ESM 的可对 js 和 ts 进行处理 I18N 的自动化翻译工具](https://github.com/fu1996/i18n-translate-tool) <img width="50px" src="https://img.shields.io/github/languages/count/fu1996/i18n-translate-tool" />
+
+- [自定义颜色变量替换工具（webpack loader）](https://github.com/fu1996/var-color-replace-loader) <img width="50px" src="https://img.shields.io/github/languages/count/fu1996/var-color-replace-loader" />
+
+- [自定义颜色替换工具（webpack loader）](https://github.com/fu1996/color-replace-loader) <img width="50px" src="https://img.shields.io/github/languages/count/fu1996/color-replace-loader" />
+
+### 手撕代码系列 🤔
+
+- [手写 webpack 核心 原理，手写 babel 插件，手写 一个简单的 redux](https://github.com/fu1996/write-it) <img width="50px" src="https://img.shields.io/github/languages/count/fu1996/write-it" />
 
 <!--
 **fu1996/fu1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
