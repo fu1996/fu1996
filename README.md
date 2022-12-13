@@ -25,11 +25,13 @@
 
 ### 自研提效小工具 😄
 
-- [基于谷歌翻译和 ESM 的可对 js 和 ts 进行处理 I18N 的自动化翻译工具](https://github.com/fu1996/i18n-translate-tool) <img width="50px" src="https://img.shields.io/github/languages/count/fu1996/i18n-translate-tool" />
+- [推荐：我的开源小窝](https://github.com/fu1996/webpack-plugins-loaders)<img width="50px" src="https://img.shields.io/github/languages/count/fu1996/webpack-plugins-loaders" />
 
-- [自定义颜色变量替换工具（webpack loader）](https://github.com/fu1996/var-color-replace-loader) <img width="50px" src="https://img.shields.io/github/languages/count/fu1996/var-color-replace-loader" />
+- [基于谷歌翻译和 ESM 的可对 js 和 ts 进行处理 I18N 的自动化翻译工具](https://github.com/fu1996/webpack-plugins-loaders/tree/main/packages/i18n-translate-tool) <img width="50px" src="https://img.shields.io/github/languages/count/fu1996/i18n-translate-tool" />
 
-- [自定义颜色替换工具（webpack loader）](https://github.com/fu1996/color-replace-loader) <img width="50px" src="https://img.shields.io/github/languages/count/fu1996/color-replace-loader" />
+- [自定义颜色变量替换工具（webpack loader）](https://github.com/fu1996/webpack-plugins-loaders/tree/main/packages/var-color-replace-loader) <img width="50px" src="https://img.shields.io/github/languages/count/fu1996/var-color-replace-loader" />
+
+- [自定义颜色替换工具（webpack loader）](https://github.com/fu1996/webpack-plugins-loaders/tree/main/packages/color-replace-loader) <img width="50px" src="https://img.shields.io/github/languages/count/fu1996/color-replace-loader" />
 
 ### 手撕代码系列 🤔
 
